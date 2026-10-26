@@ -1,4 +1,6 @@
 <img width="720" height="1600" alt="Screenshot_20261026_205526" src="https://github.com/user-attachments/assets/17071255-7590-41ef-97cd-64d75b7b5183" />
+
+
 # simple-music-player
 A lightweight local music player app built with flutter, featuring Material 3 Expressive UI, glassmorphism blur effect, and offline audio playback support (MP3, M4A, FLAC).
 # 🎵 Flutter Local Music Player
