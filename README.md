@@ -24,4 +24,4 @@ A minimalist, offline-first music player built using **Flutter**. Designed with 
 ### 🚀 Getting Started
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/username/repo-name.git](https://github.com/username/repo-name.git)
+   git clone [https://github.com/ramdan358/simple-music-player]
